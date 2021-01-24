@@ -2,4 +2,5 @@
 void main()
 {
    printf("i love programming");
+   printf("hello");
 }
